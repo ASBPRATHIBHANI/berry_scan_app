@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-berryscan-dev-6c5cd-authRole",
+      "UnauthRoleArn": "arn:aws:iam::492901505833:role/amplify-berryscan-dev-6c5cd-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::492901505833:role/amplify-berryscan-dev-6c5cd-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-berryscan-dev-6c5cd-deployment",
+      "UnauthRoleName": "amplify-berryscan-dev-6c5cd-unauthRole",
+      "StackName": "amplify-berryscan-dev-6c5cd",
+      "StackId": "arn:aws:cloudformation:us-east-1:492901505833:stack/amplify-berryscan-dev-6c5cd/66b15b90-f2e4-11f0-a20c-12a358b4a215",
+      "AmplifyAppId": "d2uopfpj7opjb7"
+    },
+    "categories": {
+      "auth": {
+        "berryscanbbff529c": {}
+      },
+      "api": {
+        "berryscan": {}
+      }
+    }
+  }
+}
